@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.estilo {
+    text-align: center;
+
+}
+
+
+h2 {
+    margin-top: 30px;
+}
+
+li {
+    margin-top: 16px;
+}
