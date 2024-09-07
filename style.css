@@ -13,11 +13,24 @@ h1 {
 
 }
 
+.paragrafo1 {
+
+    font-family: "Permanent Marker", cursive;
+}
 
 h2 {
     margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Permanent Marker", cursive;
+    text-align: center;
 }
 
 li {
     margin-top: 16px;
+}
+
+body {
+  background-image: url('./shurikenfundo.jpg');
+  text-align: center;
 }
